@@ -1,1 +1,8 @@
-ghostنن
+{
+  "version": "17.0.1",
+  "message": "A new version is available. Please update the app.",
+  "download_url": "",
+  "auto_redirect": false,
+  "redirect_url": "https://ghost-key.vercel.app/",
+  "redirect_incorrect_key": "https://ghost-key.vercel.app/"
+}
