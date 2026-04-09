@@ -2,7 +2,7 @@
   "version": "17.0.1",
   "message": "A new version is available. Please update the app.",
   "download_url": "",
-  "auto_redirect": false,
-  "redirect_url": "https://ghost-key.vercel.app/",
-  "redirect_incorrect_key": "https://ghost-key.vercel.app/"
+  "auto_redirect": true,
+  "redirect_url": "https://youtu.be/TiXDyNA2mis?si=6_kWt01cP6lDy5Tp",
+  "redirect_incorrect_key": "https://youtu.be/TiXDyNA2mis?si=6_kWt01cP6lDy5Tp"
 }
